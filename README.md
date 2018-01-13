@@ -2,6 +2,7 @@
 A simple Unreal Engine 4 plugin that allows to have extra game windows with their own camera viewpoints. 
 
 Made by [chaosgrid](https://github.com/chaosgrid)
+
 Tested with and compiled for Unreal Engine 4.18.1 by [tbarbanti](https://github.com/tbarbanti)
 
 ## Known issues
