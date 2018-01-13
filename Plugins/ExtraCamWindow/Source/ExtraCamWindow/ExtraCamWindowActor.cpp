@@ -60,7 +60,6 @@ void AExtraCamWindowActor::BeginPlay()
 	TSharedRef<SGameLayerManager> LayerManagerRef = SNew(SGameLayerManager)
 	.SceneViewport(GEngine->GameViewport->GetGameViewport())
 	.Visibility(EVisibility::Visible)
-	.UseScissor(false)
 	.Cursor(CursorInWindow)
 	[
 		ViewportOverlayWidget.ToSharedRef()
